@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several reasons and motives, for the speedie passing of the Act against transporting of treasure, and the preventing of other abuses practised on the coynes and bullion of the nation</title>
+            <author>T. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64752</idno>
+            <idno type="STC">Wing V13</idno>
+            <idno type="STC">ESTC R215741</idno>
+            <idno type="EEBO-CITATION">99827516</idno>
+            <idno type="PROQUEST">99827516</idno>
+            <idno type="VID">31936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31936)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1899:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several reasons and motives, for the speedie passing of the Act against transporting of treasure, and the preventing of other abuses practised on the coynes and bullion of the nation</title>
+                  <author>T. V.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Will. Bentley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>anno Domini M D C L. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.V.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Precious metals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31936:1" rendition="simple:additions"/>
+            <p>SEVERAL REASONS AND MOTIVES, For the ſpeedie paſſing of the ACT Againſt <hi>Tranſporting</hi> of Treaſure, and the Preventing of other Abuſes practi<g ref="char:EOLhyphen"/>ſed on the <hi>Coyns</hi> and <hi>Bullion</hi> of the NATION.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <p>DEUS EST NOBIS SOL ET SCUTUM</p>
+            </figure>
+            <p>Printed by WILL. BENTLEY, <hi>Anno Domini</hi> MDCL.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31936:2"/>
+            <pb n="1" facs="tcp:31936:2"/>
+            <head>SEVERAL REASONS AND MOTIVES, For the ſpeedie paſſing of the ACT againſt <hi>Tranſporting</hi> of Treaſure, and the Preventing other Abuſes practiſed on the <hi>Coyns</hi> and <hi>Bullion</hi> of the NATION.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been daily practiſed by ſome perticular Mer<g ref="char:EOLhyphen"/>chants, both Native and Strangers, to Tranſport the Treaſure of this Nation, to the great prejudice of the State; who for their own private gain, have not ſpared to damnifie the Common-wealth (ſo highly) that their Perſons and Eſtates cannot give a full ſatis<g ref="char:EOLhyphen"/>ſaction for the great miſchief done and practiſed by them to this Common-wealth, and without a ſtrict Examination, and exemplarie puniſhment of the offendours, or ſome of the chief of them, theſe miſchiefs will never be prevented, (and the Common-wealth be ſtill undermined by thoſe Moles, to the unſpeakable dammage thereof) and for that ſome, through ignorance, do not underſtand and con<g ref="char:EOLhyphen"/>ceave the great dammage which may come to the Common-wealth, by the ſuffering theſe aboveſaid abuſes to continue, and others more craftie and ſubtile, both Gold-ſmiths and Merchants, that are Tranſ<g ref="char:EOLhyphen"/>porters of Gold and Silver, and practizers of ſeveral high frauds and abuſes upon <hi>Coyn</hi> and <hi>Bullion,</hi> have the confidence (or impudence) to make arguments for defending the Tranſgreſſours. Now for the information of ſome in their judgements, that have deſired a true ac<g ref="char:EOLhyphen"/>count,
+<pb n="2" facs="tcp:31936:3"/>what Laws are now in force in this Nation, for prevention of theſe miſchiefs; what Order and Laws in <hi>France, Holland,</hi> and <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> for the regulating of their <hi>Mints, Money,</hi> and <hi>Bollion;</hi> what pu<g ref="char:EOLhyphen"/>niſhments and reſtriction upon the offenders,</p>
+            <p>I have procured the Ordinance, and <hi>Placcaets</hi> of <hi>France, Holland,</hi> and <hi>Flanders</hi> to be tranſlated; have breviated them for your informa<g ref="char:EOLhyphen"/>tion; and coated ſome Laws of this Nation now in force, as hereafter follow.</p>
+            <p>And if you pleaſe to make the Law, now preſented to the Houſe, ſtricter than it is now drawn, I humbly conceave you will do the Com<g ref="char:EOLhyphen"/>mon-wealth the greater benefit, conſidering the preſent condition of the Common-wealth.</p>
+            <p>Tranſporting of Treaſure hath been Felonie, 4. <hi>Henry</hi> 7. cap. 13. and 17. <hi>Edward</hi> 4. this Statute to endure for twentie years. I hum<g ref="char:EOLhyphen"/>bly conceive the Common-wealth hath now as much reaſon to look to keep the Treaſures in the Nation as they had then, conſidering all things.</p>
+            <p>That you would be pleaſed to give one Moyetie at the leaſt to any perſon or perſons that will or can diſcover the Offendours: that ſo by this reward, all perſons may be invited to diſcover the Offendours all over the Nation, and the ſame rule followed which was in 14. <hi>Rich.</hi> 2. cap. 12. where Commiſſions by Act of Parliament, were granted throughout the Realm, to inquire of ſuch as had conveyed the Mo<g ref="char:EOLhyphen"/>ney of <hi>England</hi> out of the Nation; in doing whereof great ſums throughout the Nation will come to the State, and the Offendours will remember the Proverb, <hi>Sweet meat muſt have ſower ſance:</hi> when they ſhall be enforced to pay back to the State that which they have defrauded them of, and will prevent them and all others hereafter for to take the boldneſs to get themſelves fortunes by any of the a<g ref="char:EOLhyphen"/>foreſaid indirect courſes, which ſo highly tend to the dammage of this Common-wealth.</p>
+            <p>
+               <hi>By theſe deceits, Commerce is ſpoiled, Traffick decayeth, thoſe things that are needfull for mans preſervation grow dear, the handle-crafts<g ref="char:EOLhyphen"/>work ſeaceth, the work-men betake themſelves to ſome other places, and the Commonaltie, to ſpeak all in a word, is brought to Povertie, (as is Gravely obſerved by the Maſter Generall and Councel of the Mint in</hi> Flanders, 2. <hi>October</hi> 1647. with their Decleration, clearly demon<g ref="char:EOLhyphen"/>ſtrating, That the carefull and punctual keeping of the <hi>Placcaet</hi> of the Mint, is very neceſſary, and withall profitable to all perſons of what ſtate, qualitie, or condition ſoever; ſhewing, that if the <hi>Placaet</hi> be not obſerved, but that money ſhould be paid out above the true value through theſe diſorders, they ſhall never be able to keep their Treaſure within their Countrey.</p>
+            <p>And in their Declaration ſhewing, moſt judicially, the great miſ<g ref="char:EOLhyphen"/>chiefs
+<pb n="3" facs="tcp:31936:3"/>that befall a Nation by enhauncing and raiſing there Money, being no real cure for the Common-wealth, but utterly deſtructive to all ſorts of people, even from the Prince to the poor Labourer, to any Free-State or Common-wealth, to all Merchandize and Comodi<g ref="char:EOLhyphen"/>ties: all which conſiderations, although very potent, yet do not often<g ref="char:EOLhyphen"/>times come into the minds &amp; comprehenſions, not onely of the Com<g ref="char:EOLhyphen"/>mon people, but alſo of thoſe to whom the imployment of Publick Office, have given more judgement and credit in managing of affairs themſelves, &amp; who dare to ſpread it abroad, that there is no harm nor evil in enhauncing the <hi>Coyn</hi> above its true value &amp; worth, becauſe they can put it away at the ſame price as they receive it; not taking notice by the way, that by raiſing and augmenting the price of money, does or muſt by conſequence, augment and encreaſe the price of all mer<g ref="char:EOLhyphen"/>chandizes and proviſions proportionable, whereby of neceſſitie muſt follow, that if the Moneys be augmented and heightened, the Land<g ref="char:EOLhyphen"/>lords and Creditours receive ſo much leſs; the merchandize, victuals and all other wares grow preſently dearer; the Publick Treaſure either Exciſe or Cuſtoms are abated, by ſo much as you enhaunce or leſſen your Moneys, for it is not the Denomination of a high price of Gold or Silver ſets the value, but it muſt have weight and fineneſs propor<g ref="char:EOLhyphen"/>tionable to what you call it, or elſe you go upon a wrong ground; As for example, in <hi>Scotland</hi> they call <hi>Thirteen pence halſpenie, A Mark;</hi> and <hi>Twentie pence,</hi> they call <hi>Twentie ſhillings;</hi> this denomination of a great value gives not the intrinſicate value.</p>
+            <div type="ordinance">
+               <head>Placcaet and Ordinance.</head>
+               <argument>
+                  <p>Concerning the generall courſe and regulating of the Mints and Monies, as alſo concerning the Exchange and Exchangers, Refiners, Gold-ſmiths, and others in the <g ref="char:V">Ʋ</g>nited Provinces <hi>1586.</hi>
+                  </p>
+               </argument>
+               <div n="11" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xi.</head>
+                  <p>ANd as for the Gold and Silver-Monies whoſe value is valued by this Ordinance, Wee forbid every one to preſent pay away or receive the ſame at a higher rate than is here Ordered, upon the for<g ref="char:EOLhyphen"/>feiture of ſuch Monies or the worth of it in caſe the fact be not pre<g ref="char:EOLhyphen"/>ſently diſcovered, and beſides upon penaltie of ten golden Angelots the firſt time; for the ſecond time twenty golden Angelots; and for the third four times as much; and beſides Arbitrary puniſhment ac<g ref="char:EOLhyphen"/>cording to the hainouſneſs of the fact: and Wee underſtand the ſame forfeitures and penalties to take place as well upon the Receiver as the Payer away, unleſs one of them preſently after the Receiving or Paying away do preſent himſelf to an Officer, in which caſe the denu<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ntiator either Receiver or Payer away ſhall be freed or quitted of the
+<pb n="4" facs="tcp:31936:4"/>above-ſaid penalty and forfeiture, and beſides to enjoy the third part of the ſame forfeit and penalty.</p>
+               </div>
+               <div n="14" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xiv.</head>
+                  <p>So that Wee expreſly forbid and interdict every one to over-buy or over-ſell, Change or Chop any Species of Monies rated by theſe preſents, either in taking or giving upon the ſame any profit, gain, or advantage after what manner ſoever, upon the ſame pain and penalty as above ſaid, againſt thoſe who ſhall Receive or Pay away the ſame at a higher rate than that of the Ordinance.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xv.</head>
+                  <p>We forbid alſo every one to Cull any Gold or Silver-Monies, and ſo by this means to ſort the weighty and good ones from the light and bad ones, to Pay away the light ones and make their profit of the weighty upon penalty as aboveſaid.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xvi.</head>
+                  <p>And as for the Stuff and Materials of Gold and Silver being in Maſs or ſweepings, Wee forbid to buy or ſell them at a higher rate than according to the rule of this Ordinance, upon penalty of confiſ<g ref="char:EOLhyphen"/>cation of the aboveſaid Materials, and moreover to forfeit double the worth of them at the charge as well of the buyer as of the ſeller for the firſt time; for the ſecond time twice as much; and for the third time four times as much; and afterwards Arbitrary puniſhment.</p>
+               </div>
+               <div n="17" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xvii.</head>
+                  <p>We expreſly forbid henceforth to Tranſport or cauſe to be Tran<g ref="char:EOLhyphen"/>ſported out of the aboveſaid Province towards any ſtrange Mints, any Gold or Silver-Monies, and alſo any Materials in Maſs or Monies, alſo any Materials in Maſs or Ingots fit to <hi>Coyn</hi> Monies of them, upon fofeit of confiſcation of the aboveſaid Monies and Materialls, or the worth of them in caſe they were already tranſported; and beſides this upon penalty of one hundred Golden Angelots for every Mark of Gold, and twenty Angelots for every Mark of Silver, and of more or leſs proportionably for the firſt time; for the ſecond time upon the ſame forfeit and penalty; and moreover to undergo bodily puniſh<g ref="char:EOLhyphen"/>ment and if they have not wherewithall to Pay the above-ſaid for<g ref="char:EOLhyphen"/>feits and amendments, they ſhall be bodily puniſhed according to the manner of the fact, under which penaltie and amendments Wee un<g ref="char:EOLhyphen"/>derſtand are comprehended all thoſe who had aſſiſted, and had a hand in the above-ſaid tranſportation or conveying them away, al<g ref="char:EOLhyphen"/>though the Monies or Materials did not belong unto them.</p>
+               </div>
+               <div n="20" type="article">
+                  <pb n="5" facs="tcp:31936:4"/>
+                  <head>
+                     <hi>ARTIC.</hi> xx.</head>
+                  <p>Moreover, Wee forbid every one to File, Cut, or Waſh with ſtrong Water or Sement or any otherwiſe any Gold, or Silver-Monies, nor to Saulder, Gild, Peece or Nail the ſame, or any way to make the ſame lighter or heavier, upon the forfeit of life and goods, where con<g ref="char:EOLhyphen"/>fiſcation taketh place.</p>
+               </div>
+               <div n="22" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxii.</head>
+                  <p>Wee forbid henceforth every one to melt any God or Silver-Mo<g ref="char:EOLhyphen"/>nies of her Majeſties of <hi>Englands</hi> ſtamp, valued by theſe preſents up<g ref="char:EOLhyphen"/>on penalty of life and goods, where confiſcation taketh place: And the Monies of Gold which are found to be too light by three grains, or otherwiſe Clipped, Waſhed, Nailed or Saudered, ſhall be brought to the <hi>Exchange</hi> after the old cuſtom.</p>
+               </div>
+            </div>
+            <div type="ordinance">
+               <head>Placcaet and Ordinance for <hi>Flanders</hi> at <hi>Antwerp</hi> the fourth of <hi>October 1585.</hi>
+               </head>
+               <div n="13" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xiii.</head>
+                  <p>ANd to hinder the tranſporting of the good and true Monies, We forbid all and every one henceforth to buy or ſell any Species of Gold and Silver-Monies, to give any profit or gain for it, upon penalty of the ſeller to forfeit the Pieces which are ſold, or ſhall be ſold, and beſides the buyer as the ſeller to forfeit three-ſcore Pounds of the above-ſaid good Monies for the firſt time; and twice as much for the ſecond time; and for the third time four times as much; and beſides they are to be Arbitrarily puniſhed.</p>
+               </div>
+               <div n="14" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xiv.</head>
+                  <p>We alſo forbid all and every one to Weigh, Clip, File, or make choice of any Species of Gold and Silver, for to make any profit with Melting or Tranſporting of them, upon penalty of Criminall puniſh<g ref="char:EOLhyphen"/>ment, beſides the loſs of the above-ſaid Pieces.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xv.</head>
+                  <p>Furthermore, We forbid and interdict well Expreſly; that no one of what qualitie, degree or condition ſoever, ſhall henceforth endea<g ref="char:EOLhyphen"/>vor to tranſport or carry into any ſtrange Mints, or into any other than our own, any Gold, or Silver-Monies of our Stamp, or others tollerated by this our Ordinance, nor alſo any other Monies being Clipt or declared <hi>Bullion</hi> melted or in Maſs or otherwiſe, nor alſo any other ſtuff fit to <hi>Coyn</hi> Monies of them, upon forfeit of the above-ſaid Gold and Silver, and beſides of two hundred Golden-Reals for every
+<pb n="6" facs="tcp:31936:5"/>Mark of Gold, and twenty Golden-Reals for every Mark of Silver, and of more or leſs in proportion for the firſt time that this ſhall hap<g ref="char:EOLhyphen"/>pen; and for the ſecond time, beſides the above-ſaid forfeit, to be bo<g ref="char:EOLhyphen"/>dily puniſhed, and otherwiſe as occaſion ſhall ſerve. <hi>And if ſo be that any perſon have tranſported any ſome of Monies without being taken in the fact, wee will nevertheleſs that whenſoever it ſhall be perceived and di<g ref="char:EOLhyphen"/>ſcovered, they ſhall proceed againſt the tranſgreſſors by execution of the ſaid penalties, even as if they were taken in the ſame fact, well underſtanding that inſtead of confiſcation of the Species, they ſhall be bound to pay the price and eſtimation of the tranſported Monies; and beſides, the double worth of them, and beſides to be Criminally puniſhed.</hi>
+                  </p>
+                  <p>We will and Command alſo, <hi>that thoſe who ſhall have helped to pack, or ſecretly convey and transport the above-ſaid Monies, either in Maſs or Species, although the above-ſaid Monies did not belong unto them, they ſhall be bodily or Arbitrarily puniſhed according to the qualitie of the fact and Perſons.</hi>
+                  </p>
+               </div>
+               <div type="policy">
+                  <head>The Policie and Laws of this Realm have alwayes aimed at, and in<g ref="char:EOLhyphen"/>tended the Increaſe and Augmentation of Money, especially that of Silver and this diverſe ways.</head>
+                  <p n="1">I. <note place="margin">9. <hi>E.</hi> 3. c. 1.38. <hi>E.</hi> 3. c. 2.17. <hi>E.</hi> 3.21.5. <hi>R.</hi> 2. c. 2. 2. <hi>H.</hi> 4. c. 5. 2. <hi>H.</hi> 6. c. 6.17. <hi>E.</hi> 4. c. 1. <hi>Made Feonie</hi> 19. <hi>H.</hi> 7. c. 5. 3. <hi>H.</hi> 8. c. 1.</note> By providing againſt Exportation of it.</p>
+                  <p n="2">II. <note place="margin">9. <hi>E.</hi> 3. c. 3.17. <hi>R.</hi> 2. c. 1.17. <hi>E.</hi> 4. c. 1.2. <hi>H.</hi> 6. c. 13.</note> By proving againſt the Melting it down to make Plate or other Manifactures of it.</p>
+                  <p n="3">III. <note place="margin">E. 1. <hi>Statute de monet parvam Raſtall Tit. Mo<g ref="char:EOLhyphen"/>ney.</hi>
+                     </note> By providing that if any Monies through time or other pra<g ref="char:EOLhyphen"/>ctice became uncurrant, then the ſame to be converted into Money again, and not be diverted from <hi>Coyn.</hi>
+                  </p>
+                  <p n="4">IV. <note place="margin">2. <hi>H.</hi> 6. c. 13. 25. <hi>E.</hi> 3. c. 12. 5. <hi>and</hi> 6. <hi>E.</hi> 6. c. 19.</note> By providing that none ſhould give a price for <hi>Bullion</hi> or <hi>Coyned</hi> Money above the rate of the Mint, or what the ſame is currant for: for it is not to be expected that any <hi>Bullion</hi> either of Gold or Sil<g ref="char:EOLhyphen"/>ver ſhall ever be brought to the Mint, when the Owner may have a greater Price than at the Mint, either to be tranſported or to be con<g ref="char:EOLhyphen"/>verted to make Plate, or other things: of this agreeth likewiſe with the Policie of Spain, which though it be the Spring and Fountain from whence the greateſt Streams of Silver have been derived into other parts, yet Silver there, will always yield the ſeller ſix pence, or one Real more upon the Mark at the <hi>Mint,</hi> than to be ſold to any other for any purpoſe whatſoever, concurring likewiſe with the practiſe of other States.</p>
+               </div>
+               <div type="part">
+                  <pb n="7" facs="tcp:31936:5"/>
+                  <head>That all <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſe Acts are defective and not effectuall to the ends above<g ref="char:EOLhyphen"/>ſaid, for the reaſons following.</head>
+                  <p>The Acts againſt Tranſportation, ſome extend not to Gold as 9. <hi>E.</hi> 3. c. 1. others have effect onely upon the Money that is tran<g ref="char:EOLhyphen"/>ſported, and that comes too late, and is ſeldom or never known as, 38. <hi>E.</hi> 3. c. 2.5. <hi>R.</hi> 2. c. 2.2. <hi>H.</hi> 6. c. 6.17. <hi>E.</hi> 4. c. 1. being now diſ<g ref="char:EOLhyphen"/>continued.</p>
+                  <p>Thoſe that extend to the ſhipping of it, &amp;c. <hi>viz.</hi> 2. <hi>H.</hi> 4. c. 5.19. <hi>H.</hi> 7. c. 5. and 3. <hi>H.</hi> 8. c. 1. Give the whole forfeiture to the King and no part to the Informer, whereby they are not at all made uſe of, no man being willing to be at charge to proſecute another, doing no good to himſelf.</p>
+                  <p>None of thoſe Acts do give ſufficient forfeitures to reſtrain the Offences as hath been manifeſted by experience.</p>
+                  <p>Laſtly, they have not given any means for diſcovery thereof, with<g ref="char:EOLhyphen"/>out which the Offendors will not be deterred from finding out cloſe and ſecret wayes to adventure and practice againſt them, when op<g ref="char:EOLhyphen"/>pertunity of great gain and hope of concealment ſhall invite and in<g ref="char:EOLhyphen"/>courage them thereunto.</p>
+               </div>
+               <div type="part">
+                  <head>And for the Act now drawn and propounded to be paſſed.</head>
+                  <p>BEſides the frame and body of it comprehending and fully exten<g ref="char:EOLhyphen"/>ding to all the wayes and means of the abuſes, the ſame for the forfeitures. Is drawn by the example and preſident of 18. <hi>Eliz.</hi> c. 9. againſt tranſportation of Leather, Tallow, and Raw-Hides, and others in the Queens time, and the late Ordinance 1647. Againſt tranſportation of Wool, Fullers-Earth, <hi>&amp;c.</hi>
+                  </p>
+                  <p>The Clauſes touching the proceeding by Information, <hi>&amp;c.</hi> are the ſame with the like Clauſes of the ſaid Ordinance for Wool 1647.</p>
+                  <p>And the Clauſes to incourage the Inſtrument and others to diſco<g ref="char:EOLhyphen"/>ver the Offences, wherein themſelves are lyable to the penalties, are framed in Imitation and by the Preſident of the ſaid Act of 18. <hi>Eliz.</hi> and other Ordinances and Edicts of other Kingdoms and Eſtates that give like Exemptions and Incouragements, to ſuch, as though guilty themſelves in the ſecond degree, ſhall reveal and diſcover others more principall Offendors, taking likewiſe from them the confidence they would have, that the perſons they imployed ſhould conceal their
+<pb n="8" facs="tcp:31936:6"/>Offences, whereby they will be much deterred from hazarding and adventuring upon the practice.</p>
+                  <p>And the Clauſe touching the Commiſſion and Examination of Witneſſes for diſcovery, <hi>&amp;c.</hi> And to commit them in caſe of their refuſall to be Examined, is Exampled by 13. <hi>Eliz.</hi> c. 7. The Act againſt Banckrupts and diſcovery of their Eſtates; There being greater Reaſon and Equity for the diſcovery of fraud concerning the Common-wealth, than concerning any private perſon.</p>
+               </div>
+            </div>
+            <div type="ordinance">
+               <head>In an Ordinance and Placcaet for the general Regula<g ref="char:EOLhyphen"/>ting of the <hi>MINT,</hi> publiſhed at <hi>Bruſſel</hi> the <hi>18</hi> of <hi>March 1633,</hi> is inſerted.</head>
+               <div n="25" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxv.</head>
+                  <p>WE declare, That although any of our Subjects or others, who ſhall have acted any thing contrary to this Ordinance, and were not taken in the fact, yet notwithſtanding, after they ſhall be convinced of the ſaid tranſgreſſion, they ſhall be proceeded againſt with condemnation of the ſaid penalties and amendments; well un<g ref="char:EOLhyphen"/>derſtanding, that inſtead of forfeiting the ſaid moneys and materials, they ſhall be condemned to pay the worth of them.</p>
+               </div>
+               <div n="26" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxvi.</head>
+                  <p>And if it happeneth that the juſt qualitie and quantitie of the ſaid Species, Bullion or materials cannot be preciſely known or verified, We will, that ſuch tranſgreſſours be puniſhed according to the hai<g ref="char:EOLhyphen"/>nouſneſs of the fact, being left to the diſcretion of the Judges.</p>
+               </div>
+               <div n="27" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxvii.</head>
+                  <p>Which we intend ſhall take place, in regard of thoſe who ſhall be convinced, to have paid away, preſented, or received any forbidden Moneys, or at a higher price than by this preſent Ordinance is decla<g ref="char:EOLhyphen"/>red, although the ſaid qualitie and quantitie of the ſame could not be preciſely verified.</p>
+               </div>
+               <div n="28" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxviii.</head>
+                  <p>We have Authorized and Authorize by theſe, all Officers, for to ceaſe upon and break open the packs, letters, and portmantles of the Meſſengers, or of others whom they ſhall know or ſuſpect, to bring in any of the forbidden Species or Materials, or to tranſport and con<g ref="char:EOLhyphen"/>vey out of our ſaid Lands, any of our Species, &amp; that in the preſence of thoſe to whom the ſaid packets are ſent to or do belong, if ſo be they
+<pb n="9" facs="tcp:31936:6"/>are reſiding in that place; as alſo in the preſence of one of the Magi<g ref="char:EOLhyphen"/>ſtrates of the ſaid place, onely to know the name of thoſe who cauſed the ſaid Gold and Silver to be tranſported, and to no other end.</p>
+               </div>
+               <div n="37" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xxxvii.</head>
+                  <p>We alſo order, that all thoſe that ſhall be found to have counter<g ref="char:EOLhyphen"/>feited, coyned, ſtamped, preſt, or caſt in the ſand, any moneys of what manner ſtuff or metall ſoever, ſhall be executed, as falſe Mo<g ref="char:EOLhyphen"/>niers, in a kettle with boyling oyl and water, and with confiſcation of all their goods.</p>
+               </div>
+               <div n="55" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> lv.</head>
+                  <p>If ſo be any one be convinced, that he had pickt or choſen out, or cauſed to be choſen out any of the ſaid valued Species, for to keep the heavie ones for his profit, and to pay away the light ones to the dammage of the Commonaltie, We will that he, beſides the ſaid For<g ref="char:EOLhyphen"/>feits and Amendments, ſhall be baniſhed out of Our ſaid Lands, for the ſpace of ten years.</p>
+               </div>
+               <div n="56" type="article">
+                  <head>
+                     <hi>ARTIC</hi> lvi.</head>
+                  <p>In caſe that any of the perticular Maſters of our <hi>Mints,</hi> or Exchan<g ref="char:EOLhyphen"/>gers were convinced of the ſaid abuſe, or that they ſhould have pre<g ref="char:EOLhyphen"/>ſented or paid away, or cauſe to be preſented or paid away any of the ſaid clipt or other forbidden Species, after that they had recei<g ref="char:EOLhyphen"/>ved the ſame for <hi>Bullion</hi> or not currant, then ſhall they be baniſhed for ever out of Our ſaid Lands, and their goods confiſcated.</p>
+               </div>
+               <div n="57" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> lvii.</head>
+                  <p>And becauſe the price of the Species is commonly regulated ac<g ref="char:EOLhyphen"/>cording to the price of the Gold and Silver materials, therefore We have forbidden, and forbid every one of what qualitie or condition ſoever, to by or ſell any Gold or Silver materials, or Species declared for <hi>Bullion</hi> or not currant, at a higher-price than the Ordinance of Our ſaid <hi>Mint</hi> permitteth, upon penaltie of confiſcation of the ſaid Materials and the worth of them, at the charge as well of the Buyer as Seller for the firſt time; for the ſecond time four times as much, beſides the confiſcation and forfeit, and of other arbitral correction.</p>
+               </div>
+               <div n="63" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> lxiii.</head>
+                  <p>We order alſo, that the Brokers, who did aſſiſt and help to con<g ref="char:EOLhyphen"/>clude or treat upon ſuch parſels, either in regard of money given up<g ref="char:EOLhyphen"/>on exchange, upon Uſe or Obligation, either in payment of the ſold merchandizes, or otherwiſe, ſhall be publickly whipt and baniſhed out of our ſaid Lands for the ſpace of ten years.</p>
+               </div>
+               <div n="56" type="article">
+                  <pb n="10" facs="tcp:31936:7"/>
+                  <head>
+                     <hi>ARTIC.</hi> lvi.</head>
+                  <p>And as we have underſtood, and are truly informed, that a great part of the irregularitie concerning the ſaid <hi>Placcaets,</hi> is riſen and oc<g ref="char:EOLhyphen"/>caſioned, by reaſon that many Merchants and Factours will not buy the works and manufactures of the work-men and handiecrafts-men, unleſs they will receive the Gold and Silver at ſuch a price as they will give it them; or when they have almoſt bought the goods, they give the merchandizes back again to the ſellers, if they will be paid according to the price ordered in our <hi>Placcaet:</hi> Therefore We will, that ſuch oppreſſours of the poor Commonaltie, ſhall be rigorouſly proceeded againſt and puniſhed, by apprehenſion of their perſons, and that they, their Proces being ſummarily and criminally formed, and found guiltie of what is aboveſaid, ſhall be baniſhed for ever, and their goods confiſcated, or inſtead hereof to be condemned in a great ſum of money, according to the hainouſneſs of the fact; of which con<g ref="char:EOLhyphen"/>fiſcation and amendment, the half ſhall be given to the Plaintif or diſcoverer.</p>
+               </div>
+               <div n="70" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> lxx.</head>
+                  <p>In like manner ſhall be puniſhed thoſe with the ſame forfeits and amendments, who ſhall have received, paid away, or preſented any clipt Moneys, or declared for <hi>Bullion,</hi> with Proteſtation or decla<g ref="char:EOLhyphen"/>ration, that it is for to deliver them into our <hi>Mints,</hi> or to the Ex<g ref="char:EOLhyphen"/>changers, unleſs they had preſently cut them in pieces or deformed them, or cauſed the ſame to be done by others.</p>
+               </div>
+               <div n="91" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xci</head>
+                  <p>We declare, that although it be that any of the Tranſgreſſours do obtain favour and pardon from Us or from Our Councel. We do not intend, nor we will not, that therefore they ſhould be quitted, and diſcharged from the parts of the ſaid forfeits and amendments, granted by Us to the Officers, Callers in queſtion, and Plaintifs, or Diſcoverers reſpectively; but ſuch favour and pardon onely to take place for as much as belongeth unto Us.</p>
+               </div>
+               <div n="105" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> cv.</head>
+                  <p>We order well expreſly, all Our Fiſcals and Officers, to take their concluſions, and all our Councellors, Magiſtrates, and other Judges, to give their ſentences in conformitie of this Our preſent <hi>Placaet,</hi> without uſing any moderation of the penalties and amendments therein contained, under what pretext ſoever, nor alſo any compen<g ref="char:EOLhyphen"/>ſation of Charges, to the prejudice of the Officer founded in the prin<g ref="char:EOLhyphen"/>cipal, upon penaltie of our indignation, and for to anſwer for it in their own perſons, without that they ſhall plead any ignorance, or the general tranſgreſſion. Which excuſes, We do not intend ſhall avail or
+<pb n="11" facs="tcp:31936:7"/>help them in any manner of way: but our intention is, that they ſhall be puniſhed becauſe of their negligence and connivence.</p>
+               </div>
+               <closer>
+                  <dateline>This Ordinance and Placcact of the <hi>18</hi> of <hi>March 1633,</hi> is again con<g ref="char:EOLhyphen"/>firmed; and all Magiſtrates and Officers are required to do their ut<g ref="char:EOLhyphen"/>moſt endeavours to ſee it ſtrictly obſerved in all points. Publiſhed at <hi>Bruſſels</hi> 
+                     <date>the <hi>26</hi> of <hi>Auguſt 1643.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="ordinance">
+               <head>In an Ordinance and Placcaet for the Regulating of the <hi>Mint;</hi> Publiſhed in <hi>Bruſſels</hi> the laſt day of <hi>May, 1644.</hi> is inſerted.</head>
+               <div n="11" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xi.</head>
+                  <p>WE have alſo forbidden, and forbid by theſe preſents, every one of what qualitie or condition ſoever; as well our Subjects as others, to Tranſport any Gold or Silver from henceforth out of our Lands, directly or indirectly, or cauſe the ſame to be Tranſported, ei<g ref="char:EOLhyphen"/>ther Minted or Unminted; or alſo in <hi>Maſs, Ingots,</hi> or <hi>Bullion;</hi> without having obtained of us before-hand expreſs leave and conſent for to do the ſame, upon penaltie of forfeiting the <hi>Gold, Silver,</hi> and <hi>Bullion,</hi> and to pay beſides the double of their worth, and upon forfeit of the merchandizes, if ſo be the above-ſaid <hi>Gold, Silver,</hi> or <hi>Bullion</hi> ſhall be found to be packt in them; as alſo of the horſes and waggons of thoſe who ſhall willingly and wittingly have brought and conveyed the ſame.</p>
+               </div>
+               <div n="15" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xv.</head>
+                  <p>And if any one be found and taken to have Tranſported or cauſed to be Tranſported out of our Lands, any Moneys by Us valued, or other declared <hi>Bullion,</hi> or any materials of <hi>Gold</hi> and <hi>Silver,</hi> and have delivered or cauſed to be delivered the ſame into any ſtrange Mints; We will that ſuch perſons ſhall be proceeded againſt, ſharply and vi<g ref="char:EOLhyphen"/>gorouſly by impriſonment of their perſons, and that they, beſides, the forfeits of the ſaid Species and materials, and four times the worth of them, for the firſt time ſhall be baniſhed out of our aboveſaid Lands, for the ſpace of five years; and for the ſecond time for ever.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>
+                     <hi>ARTIC.</hi> xvi.</head>
+                  <p>And thoſe who willingly and wittingly have aſſiſted for to pack and Tranſport the above-ſaid Moneys or Materials, ſhall be puniſhed according to pleaſures, or baniſhed according to the qualitie of the perſon.</p>
+               </div>
+               <argument>
+                  <p>Other Countreys you may ſee ſtrictly provide againſt theſe offences; and it will never be mended here, if you make not as ſtrict Laws as they.</p>
+               </argument>
+            </div>
+            <div type="declaration">
+               <pb n="12" facs="tcp:31936:8"/>
+               <head>In a Declaration of the King of <hi>France,</hi> for the Regu<g ref="char:EOLhyphen"/>laring of the new price ſet upon the Light and Clipt Species of Money: likewiſe for the obſervation of the prices of <hi>Gold</hi> and <hi>Silver</hi> imployed for the Gold-ſmiths work. It is alſo well expreſly forbidden to melt the Money, and to Trasport them or other materials of <hi>Gold</hi> and <hi>Sil<g ref="char:EOLhyphen"/>ver</hi> out of the ſaid Kingdom. Printed at <hi>Paris 30</hi> of <hi>October. 1640.</hi>
+               </head>
+               <div type="part">
+                  <head>
+                     <hi>FOLIO</hi> 8, 9.</head>
+                  <p>VVE expreſly forbid, that all materials of <hi>Gold</hi> and <hi>Silver,</hi> ei<g ref="char:EOLhyphen"/>ther coyned or uncoyned, ſhall not be bought or ſold at a higher rate than is exprefly ſet down in this <hi>Placcaet,</hi> which doth contain the true value that muſt be paid for the Mark of <hi>Gold</hi> and <hi>Silver.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>FOLIO</hi> 13.</head>
+                  <p>We expreſly forbid every one, of what codition or qualitie ſoever, to Tranſport out of our Kingdom, any <hi>Gold</hi> and <hi>Silver</hi> coyned or un<g ref="char:EOLhyphen"/>coyned, nor any other Gold-ſmithswork, upon penaltie of forfeiting the materials and merchandizes, and other things wherein they ſhall be found to be packt up in; beſides the penaltie of fiftie pounds and bodily puniſhment.</p>
+                  <p>Whereas this Parliament, by their Ordinance 6. of <hi>Sept.</hi> 1647. did decrie all Clipped, Fyled, or diminiſhed Money (by means where<g ref="char:EOLhyphen"/>of great quantities were ſold to ſome Gold-Smiths) who have made it a Trade to deal with Receivers of Publick Caſhes, Graiſhers, and ſeverall other Perſons (and inſtead of melting of theſe Monies down) ſome Gold-ſmiths have Iſhewed theſe Monies out again in payment, whereas at the Tower thſe Clipped Monies would make but five ſhillings the Ounce-Troy, theſe men have vented out theſe Clipped Monies to divers Il-affected people at five ſhillings ſix pence, and five ſhillings eight pence, and ſix ſhillings the Ounce, who have diſper<g ref="char:EOLhyphen"/>ſed the ſaid Clipped Monies ſo bought from Gold-ſmiths up and down the Nation again, to the great Inriching of themſelves, and de<g ref="char:EOLhyphen"/>frauding of the good people of this Nation, by buying up this Clip<g ref="char:EOLhyphen"/>ped Money ſince the Ordinance 1647. at the leaſt twenty times over, and venting it for currant again (which had been helped, if there had been but ſix words put into the Ordinance (which was to have re<g ref="char:EOLhyphen"/>quired all perſons exchanging any Clipt or uncurrant <hi>Engliſh</hi> Money with any Gold-ſmith or others, upon forfeiture of duble the value, to ſee it cut in two peices or ſo defaced that it ſhould not be paſſable after.) I humbly preſent this defect of that Ordinance, that it may be looked after and amended, and I humbly deſire that the Act againſt tranſporting Treaſure now committed, may be enacted with ſuch vi<g ref="char:EOLhyphen"/>gour, that the Common-wealth may have the reall benefit, and the offenders brought to exemplarie Juſtice.</p>
+                  <pb n="13" facs="tcp:31936:8"/>
+                  <p>
+                     <hi>There hath been twenty Millions of Money Coyned within this twenty five years as will appear by the Mint-Boooks, and almoſt all of it tran<g ref="char:EOLhyphen"/>ſported out of the Nation, the Gold all gone, the currant ſilver culled out, the weightieſt melted &amp; tranſported: &amp; that Silver-Monies which remains is but little, and all culled, Gold is made as pretious in this Common-wealth as Diamonds. What inconveniences will ariſe by the indirect deal<g ref="char:EOLhyphen"/>ing of private men in this particular to the Common-wealth, I ſhall hum<g ref="char:EOLhyphen"/>bly leave it to you to conſider.</hi>
+                  </p>
+                  <p>In the year 1643. It was humbly offered to this Parliament, to have the offendours diſcovered and to bring them to Juſtice, and this miſchief ſtopped; but by the great Intereſt of the offendours, that had then power in this Nation, the Propoſition was ſlighted, and theſe miſchiefs ever ſince dayly practiſed, to the unſpeakable damage of this Common-wealth: for it is far eaſier to keep the Treaſure in the Nation by making ſtrict Laws againſt tranſportation, than when it is gon to bring it back, as too late experience will make this Common-wealth feel: but you have the power to call theſe offendours to a ſtrict account, if you paſs the Act fully to inable all people to make their diſcoveries, <hi>how, and in what manner other Nations do puniſh theſe of<g ref="char:EOLhyphen"/>fendours, you have already preſented out of their Placcaets, This evil is grown to ſuch a height that both our own Laws put in the ſtricteſt execu<g ref="char:EOLhyphen"/>tion, and the Cuſtoms and Laws of other Countries added to them for this particular, with the greateſt diligence of expert men, to make the ſearch for what is paſt, and to prevent theſe miſchiefs for the time to come, will be little enough: and to make this diſcovery is a ſervice of more Importance to the Common-wealth than at firſt ſight can be apprehended.</hi>
+                  </p>
+                  <p>This is a certain rule, no great action in any Common-wealth or State can be done but by Money, which all ages have held to be the Sinews of War, and Garland of Peace; and what occaſions we have to uſe it both for commerce and ſafety, is humbly left to you to conſider; and in all well regulated States it hath ever been accounted a great ſervice to diſcover the offendours and abuſes practiſed upon the Treaſure of their Nation: and to prevent the growth of theſe miſ<g ref="char:EOLhyphen"/>chiefs is the work of every faithfull lover of his Countrey; <hi>And here they that ſhall be against the diſcovery of theſe offences and offendours, may amongſt judicious men be juſtly ſuſpected to be Parties themſelves.</hi>
+                  </p>
+                  <p>And though ſome Merchants and other Intereſted Perſons (may for their own Intereſt, either for their profit (or fear of Puniſhment for what they have done) ſpeak themſelves, or get others, to oppoſe the Act againſt tranſporting Treaſure to paſs the Houſe, or procure it to be ſo altered as it ſhall not be effectuall to give a full cure to the Common-wealth, of the great inconveniences it is now under, by ſe<g ref="char:EOLhyphen"/>verall abuſes practiſed under <hi>Coyn</hi> and <hi>Bullion.</hi>
+                  </p>
+                  <p>To give a cure to the Common-wealth of theſe great inconveni<g ref="char:EOLhyphen"/>ences,
+<pb n="14" facs="tcp:31936:9"/>and alſo to take away the great obſtructions of your Mint; which will never be done till this Act paſs, and if it were more ſtricter, it would be more benificiall to the Common-wealth, eſpecially in theſe times when you have ſo many occaſions of Money, by bringing in preſently very great ſums of Money to the State by the Puniſhment of the Offendours.</p>
+                  <p>
+                     <hi>You have here, with all humility, ſet down to you, the ways and means whereby your neighbour-Countreys uſe to prevent theſe miſchiefs, and to puniſh the Offendours for what is paſt, with ſeverall old Statutes of this Nation: out of which if you exſtract the quintiſence, and make a ſharp and vigorous Law, and require all your Officers and others to put it in full execution, you may in a ſhort time cure this Common-wealth of theſe dangerous diſeaſes, which if you let it go on, will prove a Gangrene.</hi>
+                  </p>
+                  <p>I humbly beſeech you to take notice, there hath been within ſeven years <hi>Coyned</hi> in ten dayes, more money in the Tower of <hi>London,</hi> than hath been <hi>Coyned</hi> near upon this three laſt years: now if you ſuffer Treaſure to go out of the Nation every day for want of a Law, to give all people power to diſcover and examine the Offendours, in a ſhort time you will not have any Money left in the Common-wealth (for ex<g ref="char:EOLhyphen"/>perience in all ages ſhew, that little and ſlight penalties can never ſtop ſome Merchants from their profit, ſo they get to their private) they care not what miſchiefs the Common-wealth ſuffers: <hi>(for a Common-wealth without plenty of Money, looks like a great Houſe unfurniſht, and bare Walls is no hanſome ſight) and you will find there will not be Money left to pay your juſt Taxes, Cuſtoms and Exſice, and to maintain Trade and commerce if you clear not the obſtruction of the Mint, and take ſome effectuall courſe to ſet it a work: and this Act is but a preparation and ground-work to cauſe your Mint to go: and till it paſs, you will never ſee your Mint flouriſh: for to alow any man to outgive the Mint for Bullion is, to ſhut up the Mint: for all men will vent their Treaſure where they can have the greateſt price, and not to make a way for the opening of the Mint at this time, eſpecially when you have ſuch occaſions of Money,</hi>
+                  </p>
+                  <p>I ſhall humbly leave it to you to conſider the conſequence and in<g ref="char:EOLhyphen"/>convenience, what is here ſaid, is with all humility preſented to the Parliament for the ſervice of the Common-wealth, by a faithfull lover of his Countrey, being deſired to ſtate my Reaſons by ſome in Autho<g ref="char:EOLhyphen"/>rity for paſſing the aforeſaid Act; I have humbly obeyed it and hum<g ref="char:EOLhyphen"/>bly conceive (if it were made ſtricter than it is) it were far better for the Common-wealth: for tranſporting Treaſure heretofore hath been made Feloney, when the Common-wealth, I humbly conceive, had not ſo much occation to ſee to keep their Treaſure in the Nation, and their Mint going as now they have.</p>
+               </div>
+            </div>
+            <closer>
+               <signed>T. V.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31936:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
